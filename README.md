@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0023-merge-k-sorted-lists) |
 ## Divide and Conquer
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
