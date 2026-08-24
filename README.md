@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
