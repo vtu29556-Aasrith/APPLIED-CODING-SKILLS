@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0234-palindrome-linked-list) |
+| [0641-design-circular-deque](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0496-next-greater-element-i) |
+| [0641-design-circular-deque](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0641-design-circular-deque) |
 | [0946-validate-stack-sequences](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0946-validate-stack-sequences) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Hash Table
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0641-design-circular-deque) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
