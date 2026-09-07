@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0234-palindrome-linked-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0283-move-zeroes) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -168,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0704-binary-search) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
