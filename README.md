@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0977-squares-of-a-sorted-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1480-running-sum-of-1d-array](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0977-squares-of-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
