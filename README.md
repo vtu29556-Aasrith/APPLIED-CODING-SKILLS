@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0901-online-stock-span) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0946-validate-stack-sequences) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
