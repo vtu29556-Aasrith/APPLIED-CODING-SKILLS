@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0027-remove-element) |
+| [0239-sliding-window-maximum](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0946-validate-stack-sequences) |
@@ -96,4 +98,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
