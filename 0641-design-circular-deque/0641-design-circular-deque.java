@@ -1,73 +1,92 @@
 class MyCircularDeque {
-    private int[] deque;
-    private int front;
-    private int count;
-    private int capacity;
+    private int front, rear, size, cap;
+    private int[] arr;
 
     public MyCircularDeque(int k) {
-        deque = new int[k];
-        front = 0;
-        count = 0;
-        capacity = k;
+        arr = new int[k];
+        this.cap = k;
+        front = -1;
+        rear = -1;
+        size = 0;
     }
     
     public boolean insertFront(int value) {
-        if (isFull()) {
-            return false;
+        if (isFull()) return false;
+        
+        if (isEmpty()) {
+            front = rear = 0; 
+        } else if (front == 0) {
+            front = cap - 1; 
+        } else {
+            front--;       
         }
-        front = (front - 1 + capacity) % capacity;
-        deque[front] = value;
-        count++;
+        
+        arr[front] = value;
+        size++;
         return true;
     }
     
     public boolean insertLast(int value) {
-        if (isFull()) {
-            return false;
+        if (isFull()) return false;
+        
+        if (isEmpty()) {
+            front = rear = 0; 
+        } else if (rear == cap - 1) {
+            rear = 0;         
+        } else {
+            rear++;      
         }
-        int rearIndex = (front + count) % capacity;
-        deque[rearIndex] = value;
-        count++;
+        
+        arr[rear] = value;
+        size++;
         return true;
     }
     
     public boolean deleteFront() {
-        if (isEmpty()) {
-            return false;
+        if (isEmpty()) return false;
+        
+        if (size == 1) {
+            front = rear = -1; 
+        } else if (front == cap - 1) {
+            front = 0;         
+        } else {
+            front++;          
         }
-        front = (front + 1) % capacity;
-        count--;
+        
+        size--;
         return true;
     }
     
     public boolean deleteLast() {
-        if (isEmpty()) {
-            return false;
+        if (isEmpty()) return false;
+        
+        if (size == 1) {
+            front = rear = -1;
+        } else if (rear == 0) {
+            rear = cap - 1;    
+        } else {
+            rear--;            
         }
-        count--;
+        
+        size--;
         return true;
     }
     
     public int getFront() {
-        if (isEmpty()) {
-            return -1;
-        }
-        return deque[front];
+        if (isEmpty()) return -1;
+        return arr[front];
     }
     
     public int getRear() {
-        if (isEmpty()) {
-            return -1;
-        }
-        int rearIndex = (front + count - 1) % capacity;
-        return deque[rearIndex];
+        if (isEmpty()) return -1;
+        return arr[rear];
     }
     
     public boolean isEmpty() {
-        return count == 0;
+        return size == 0;
     }
     
     public boolean isFull() {
-        return count == capacity;
+        return size == cap;
     }
 }
