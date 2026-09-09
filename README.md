@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3871-count-commas-in-range-ii](https://github.com/vtu29556-Aasrith/APPLIED-CODING-SKILLS/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
 |  |
 | ------- |
