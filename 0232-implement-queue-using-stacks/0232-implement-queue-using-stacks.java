@@ -1,34 +1,34 @@
 class MyQueue {
-    private Stack<Integer> inStack;
-    private Stack<Integer> outStack;
+    private Stack<Integer> input;
+    private Stack<Integer> output;
 
     public MyQueue() {
-        inStack = new Stack<>();
-        outStack = new Stack<>();
+        input = new Stack<>();
+        output = new Stack<>();
     }
-    
+
     public void push(int x) {
-        inStack.push(x);
+        input.push(x);
     }
-    
+
     public int pop() {
-        transferIfNeeded();
-        return outStack.pop();
+        moveIfNeeded();
+        return output.pop();
     }
-    
+
     public int peek() {
-        transferIfNeeded();
-        return outStack.peek();
+        moveIfNeeded();
+        return output.peek();
     }
-    
+
     public boolean empty() {
-        return inStack.isEmpty() && outStack.isEmpty();
+        return input.isEmpty() && output.isEmpty();
     }
-    
-    private void transferIfNeeded() {
-        if (outStack.isEmpty()) {
-            while (!inStack.isEmpty()) {
-                outStack.push(inStack.pop());
+
+    private void moveIfNeeded() {
+        if (output.isEmpty()) {
+            while (!input.isEmpty()) {
+                output.push(input.pop());
             }
         }
     }
