@@ -2,7 +2,6 @@ import java.util.*;
 
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-
         List<List<Integer>> result = new ArrayList<>();
 
         if (root == null) {
@@ -13,20 +12,20 @@ class Solution {
         queue.offer(root);
 
         while (!queue.isEmpty()) {
-
-            int levelSize = queue.size();
+            int size = queue.size();
             List<Integer> level = new ArrayList<>();
-            for (int i = 0; i < levelSize; i++) {
 
-                TreeNode current = queue.poll();
-                level.add(current.val);
+            for (int i = 0; i < size; i++) {
+                TreeNode node = queue.poll();
 
-                if (current.left != null) {
-                    queue.offer(current.left);
+                level.add(node.val);
+
+                if (node.left != null) {
+                    queue.offer(node.left);
                 }
 
-                if (current.right != null) {
-                    queue.offer(current.right);
+                if (node.right != null) {
+                    queue.offer(node.right);
                 }
             }
 
