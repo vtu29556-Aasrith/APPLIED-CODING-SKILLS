@@ -1,25 +1,43 @@
-public class Solution {
+class Solution {
     public int leastInterval(char[] tasks, int n) {
-        int[] counter = new int[26];
-        int max = 0;
+
+        int[] count = new int[26];
+
+        // Count frequency of each task
+        for (char task : tasks) {
+            count[task - 'A']++;
+        }
+
+        // Find the maximum frequency
+        int maxFreq = 0;
+
+        for (int freq : count) {
+            maxFreq = Math.max(maxFreq, freq);
+        }
+
+        // Number of tasks having maximum frequency
         int maxCount = 0;
-        for(char task : tasks) {
-            counter[task - 'A']++;
-            if(max == counter[task - 'A']) {
+
+        for (int freq : count) {
+            if (freq == maxFreq) {
                 maxCount++;
             }
-            else if(max < counter[task - 'A']) {
-                max = counter[task - 'A'];
-                maxCount = 1;
-            }
         }
-        
-        int partCount = max - 1;
-        int partLength = n - (maxCount - 1);
-        int emptySlots = partCount * partLength;
-        int availableTasks = tasks.length - max * maxCount;
-        int idles = Math.max(0, emptySlots - availableTasks);
-        
-        return tasks.length + idles;
+
+        /*
+         * Create slots based on the most frequent task.
+         *
+         * Example:
+         * A A A, n = 2
+         *
+         * A _ _ A _ _ A
+         *
+         * (maxFreq - 1) groups, each of size (n + 1)
+         * plus the last group containing maxCount tasks.
+         */
+        int result = (maxFreq - 1) * (n + 1) + maxCount;
+
+        // We cannot have fewer intervals than the number of tasks.
+        return Math.max(result, tasks.length);
     }
 }
